@@ -12,6 +12,7 @@
 		<type fullname="InputManager" preserve="nothing"/>
 		<type fullname="PlayerController" preserve="nothing"/>
 		<type fullname="PlayerHealth" preserve="nothing"/>
+		<type fullname="Readme" preserve="nothing"/>
 		<type fullname="SceneController" preserve="nothing"/>
 		<type fullname="TimerManager" preserve="nothing"/>
 		<type fullname="ToneOverlay" preserve="nothing"/>
@@ -124,7 +125,9 @@
 		<type fullname="UnityEngine.AI.NavMeshData" preserve="nothing"/>
 		<type fullname="UnityEngine.AnimationClip" preserve="nothing"/>
 		<type fullname="UnityEngine.Animator" preserve="nothing"/>
+		<type fullname="UnityEngine.Audio.AudioResource" preserve="nothing"/>
 		<type fullname="UnityEngine.AudioBehaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioClip" preserve="nothing"/>
 		<type fullname="UnityEngine.AudioListener" preserve="nothing"/>
 		<type fullname="UnityEngine.Avatar" preserve="nothing"/>
 		<type fullname="UnityEngine.Behaviour" preserve="nothing"/>

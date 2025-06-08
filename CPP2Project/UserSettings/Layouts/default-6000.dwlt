@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 150}
   m_MaxSize: {x: 32384, y: 24288}
   vertical: 0
-  controlID: 177
+  controlID: 182
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -175,7 +175,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 150}
   m_MaxSize: {x: 8096, y: 24288}
   vertical: 1
-  controlID: 62
+  controlID: 27
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -224,8 +224,8 @@ MonoBehaviour:
     y: 514
     width: 1126
     height: 419
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 226}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -250,8 +250,8 @@ MonoBehaviour:
     y: 0
     width: 219
     height: 933
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -302,8 +302,8 @@ MonoBehaviour:
     y: 0
     width: 317
     height: 933
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -1168,9 +1168,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 12.905014, y: 1.4280267, z: -20.583}
+    m_Target: {x: 12.9777355, y: 0.87049997, z: -20.583}
     speed: 2
-    m_Value: {x: 12.905014, y: 1.4280267, z: -20.583}
+    m_Value: {x: 12.9777355, y: 0.87049997, z: -20.583}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1220,9 +1220,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2.8969955
+    m_Target: 1.4969364
     speed: 2
-    m_Value: 2.8969955
+    m_Value: 1.4969364
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1395,7 +1395,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2addf9ffc6def9ffb2e1f9ffbee1f9ffc6e1f9ffa0e6f9ffbce6f9ff7af0f9ff16f2f9ff02f5f9ff0ef5f9ff16f5f9fff0f9f9ff0cfaf9ff0c00faffbc02faffd203faff1a05faff6806faff4c0ffaffe810faffd413faffe013faffe813faffc218faffde18faffbe21faff5a23faff4626faff5226faff5a26faff342bfaff502bfaff6e34faff0a36fafff638faff0239faff0a39faffe43dfaff003efaff5046faffec47faff084bfaff144bfaff1c4bfafff64ffaff1250faff446dfaffe26ffaff6a76faff5a7cfafffc7cfaff048bfaff3698faff28a6faff6eabfaff10acfaffc6acfaffe0aefaffa4b3faff6ed4faff84e3faff54ebfafff0ecfaff08f0faff12f0faff1af0fafff2f4faff0cf5faff4e0cfbffa80dfbff060ffbff3e4ffbffb87dfbff547ffbff7682fbff8882fbff9882fbff5486fbff7686fbff4a8bfbfffeb0fbffb8b1fbff7cb2fbff44b3fbff4ab4fbff62b5fbff7ab6fbffecb7fbff16b9fbff3abafbff5cbefbff3cc6fbff08d3fbffc0d3fbff8ad4fbff9cf0fbff1cfafbffc6fafbffa4fbfbff44fcfbff6a05fcff3a0efcfff80efcff3a0ffcffe00ffcffd619fcff781afcffb025fcff2026fcff7026fcff0c27fcffe62bfcff143afcffc43afcff6a3bfcff1a3cfcffca3cfcfffc40fcff4254fcffda62fcff2663fcffc063fcff2afaffff44faffff48faffff4cfaffff54faffff9cfaffffa0faffffa4faffffa8faffff06fbfffff4ffffff52ba000092ba0000b2ba0000c6ba000008bb00003abb000066bb0000c6bb0000d0bb0000d6bb0000e2bb000018b602002ab60200e4b9020076bc020098bc020090c1020018c2020040c20200acc20200b2c20200bec20200eee2020008e3020010e3020014e70200fc120300f413030042140300761703008417030050340300d8340300444e0300684e0300ca5603003857030082580300b87303005c740300929703004e9803001a99030046990300709a0300c2bd0300fcbd0300a8e20300c0e20300
+      m_ExpandedIDs: 9660feff4261feffe861feff8c62fefff063fefff86bfeff946dfeffb070feffbc70feffc470feff9e75feffba75feff9485feff2468010080680100706a0100766a0100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1466,7 +1466,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/_Scene
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1477,14 +1478,14 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Jodie\CPP2Project
+  m_LastProjectPath: C:\Users\Jodie\Documents\GitHub\CPP2ChickenGame\CPP2Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 7e610000
     m_LastClickedID: 24958
-    m_ExpandedIDs: 00000000b2c20000b4c20000b6c20000b8c20000bac20000bcc20000bec20000c0c20000c2c20000c4c20000c6c20000c8c20000cac20000ccc20000cec20000d0c20000d2c20000d4c20000d6c20000d8c20000dac20000dcc20000dec20000e0c20000e2c20000e4c20000e6c20000e8c20000eac20000ecc20000eec20000f0c20000f2c20000
+    m_ExpandedIDs: 000000006e2d0100b66b0100a66e0100a86e0100aa6e0100ac6e0100ae6e0100b06e0100b26e0100b46e0100b66e0100b86e0100ba6e0100bc6e0100be6e0100c06e0100c26e0100c46e0100c66e0100c86e0100ca6e0100cc6e0100ce6e0100d06e0100d26e0100d46e0100d66e0100d86e0100da6e0100dc6e0100de6e0100e06e0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1513,21 +1514,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000fabc0000b2c20000b4c20000b8c20000bac20000bcc20000bec20000c0c20000c2c20000c4c20000c8c20000cac20000ccc20000cec20000d0c20000d2c20000d4c20000d6c20000d8c20000dac20000dcc20000dec20000e4c20000e8c20000eac20000ecc20000eec20000f2c20000d4c300002cbd01002ebd01004cbf0100
+    m_ExpandedIDs: ffffffff000000006e2d0100b66b0100a66e0100a86e0100aa6e0100ac6e0100ae6e0100b06e0100b26e0100b46e0100b66e0100b86e0100ba6e0100bc6e0100be6e0100c06e0100c26e0100c46e0100c66e0100c86e0100ca6e0100cc6e0100ce6e0100d06e0100d26e0100d46e0100d66e0100d86e0100da6e0100dc6e0100de6e0100e06e010000700100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: MainMenu
-      m_OriginalName: MainMenu
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 172430
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 11}
